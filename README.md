@@ -10,7 +10,7 @@ CSS
 #### Display the project
 To display please download and open index.html file in your browser. 
 
-### Demo
+#### Demo
 https://konradlniany.github.io/
 
 Design Plan
