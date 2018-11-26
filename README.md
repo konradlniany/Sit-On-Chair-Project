@@ -8,7 +8,7 @@ HTML
 CSS
 
 #### Demo
-https://github.com/konradlniany/Sit-On-Chair-Project
+https://github.com/konradlniany/Sit-On-Chair-Project/
 
 Design Plan
 ![Design Plan](https://github.com/konradlniany/Sit-On-Chair/blob/master/Sit-On-Chair.jpg)
