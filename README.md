@@ -7,8 +7,8 @@ Technologies used:
 HTML
 CSS
 
-#### Demo
-https://github.com/konradlniany/Sit-On-Chair-Project/
+## Display the project
+To display please download and open index.html file in your browser. 
 
-Design Plan
+### Design Plan
 ![Design Plan](https://github.com/konradlniany/Sit-On-Chair/blob/master/Sit-On-Chair.jpg)
